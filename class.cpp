@@ -1,4 +1,5 @@
 //class is a user defined data type 
+//class consist of data member anfd member function 
 
 // #include<iostream>
 // using namespace std;
@@ -80,3 +81,4 @@ int main()
 
 // data member can be in private or public protected 
 // member function can never be private only public protected 
+
