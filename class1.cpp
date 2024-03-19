@@ -150,4 +150,4 @@ index=i;
         
     }
     e1[index].out();
-}
+} 
