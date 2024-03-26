@@ -34,5 +34,3 @@ int main()
     }
     cout<<"at this point professor gets deleted but department is still there"<<endl;
 }
-
-//aggregation in cpp
